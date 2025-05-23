@@ -22,7 +22,7 @@ Introduction à [l’interface de GDevelop](https://github.com/g404-code-gaming/
 
 ## 🎨 Pôle Graphisme (Artistes)
 
-![Artiste](Images/Artiste.gid)
+![Artiste](Images/Artiste.gif)
 
 🛠️ Logiciel : Piskel
 
