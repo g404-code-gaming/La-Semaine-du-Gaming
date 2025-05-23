@@ -18,6 +18,9 @@ Il est temps de finaliser votre jeu :
 ✅ Pendant cette phase, les enseignants ou encadrants peuvent faire des tours dans les groupes pour tester, poser des questions et aider aux derniers ajustements.
 
 ## 🧪 Étape 2 : Session de tests croisées
+
+![Test](Images/Test.gif)
+
 Chaque groupe va tester le jeu d’un autre groupe
 
 Remplir une petite fiche avec :
@@ -29,6 +32,9 @@ Remplir une petite fiche avec :
 🔄 Cela permet de voir comment les autres perçoivent votre jeu et de repérer des choses que vous n’aviez pas vues !
 
 ## 🎤 Étape 3 : Présentation des jeux (mini expo ou passage oral)
+
+![Presentation](Images/Presentation.jpeg)
+
 Chaque groupe présente son jeu à la classe :
 
 - Montrez la jaquette
@@ -55,4 +61,6 @@ Tu peux conclure avec une petite cérémonie :
 
 - Félicitations à tous les groupes 🎓
 - une photo de groupe devant leurs jeux
+
+![Bravo](Images/Bravo.gif)
 
