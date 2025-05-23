@@ -57,7 +57,7 @@ Votre jaquette doit contenir :
 ## 🧠 Étape 4 : Comprendre les classifications PEGI
 Avant de commencer à programmer vos jeux, vous devez aussi penser à pour qui vous créez votre jeu. Est-ce un jeu pour les enfants ? Pour les ados ? Peut-on y voir de la violence ou de la peur ?
 
-👉 On regarde ensemble la diapo sur les PEGI
+👉 On regarde ensemble la diapo sur les
 [PEGI](https://docs.google.com/presentation/d/1Gk98aRqTVBGvoG72nRFTbzsaAk6FrBno7NBpBULBJLI/edit?usp=sharing)
 
 Expliquez :
