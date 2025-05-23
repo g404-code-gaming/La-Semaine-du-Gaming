@@ -8,8 +8,11 @@ L’atelier entre maintenant dans sa phase la plus intense : la création réell
 Chaque pôle part avec ses outils et objectifs clairs :
 
 ## 👨‍💻 Pôle Développement (Développeurs)
+
+![dev](Images/Dev.gif)
+
 🛠️ Logiciel : GDevelop
-Introduction à [l’interface de GDevelop]()
+Introduction à [l’interface de GDevelop](https://github.com/g404-code-gaming/GDevelop_Cour)
 
 🎯 Objectifs de la journée :
 
@@ -18,6 +21,9 @@ Introduction à [l’interface de GDevelop]()
 - Prévoir l’espace pour les graphismes et sons à intégrer
 
 ## 🎨 Pôle Graphisme (Artistes)
+
+![Artiste](Images/Artiste.gid)
+
 🛠️ Logiciel : Piskel
 
 - Découverte de Piskel (création de sprites en pixel art)
@@ -36,6 +42,9 @@ Introduction à [l’interface de GDevelop]()
 - Exporter les fichiers dans un dossier commun
 
 ## 🔊 Pôle Son & Intégration (Audio)
+
+![Audio](Images/Audio.gif)
+
 🎧 Outils : sites de sons libres (Freesound, Pixabay Audio, etc.)
 
 - Apprendre à rechercher des sons libres de droits (musique d’ambiance, bruitages)
